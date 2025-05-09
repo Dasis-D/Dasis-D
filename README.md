@@ -7,6 +7,7 @@ Bienvenue sur une partie de ma vie sur internet, je suis un apprentit developpeu
 
 N'hésitez pas à prendre contact avec moi pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de la tech.
  **Tech Stack :** 
+ 🛠 Pile technologique :
 - **Langages** : HTML, CSS, JavaScript, SQL
 - **Frameworks & outils** : Tailwind CSS, React, Flutter, FlutterFlow
 - **Design & UI/UX** : Figma
