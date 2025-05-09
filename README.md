@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm **Dasis DIMA**
 Content de vous voir ici
 
-Content de vous voir ici
-
 Developpeur web former dans le cadre du projet D-clic de l'OIF
 
 🚀 À propos de moi :
